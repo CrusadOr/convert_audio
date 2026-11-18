@@ -1,0 +1,15 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller outputs
+build/
+dist/
+*.spec
+*.exe
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
